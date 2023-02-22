@@ -1,8 +1,8 @@
 import React from 'react';
 
-function CreatePost(props) {
+function CreatePost() {
     return (
-        <div></div>
+        <div>Create Post</div>
     );
 }
 
