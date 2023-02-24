@@ -15,7 +15,7 @@ function FormField({labelName, type, name, placeholder, value, handleChange, isS
                         onClick={handleSurpriseMe}
                         className={"font-semibold text-xs bg-[#ECECF1] py-1 px-2 rounded-[5px] text-black"}
                     >
-                        Surprise me!
+                        Randomize
                     </button>
                 )}
             </div>
