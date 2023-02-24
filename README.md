@@ -1,8 +1,12 @@
 # **AI Image Generation Project**
 
-Create an image based on the user's input by utilizing the **OpenAI** DALL-E AI API.  
-After the image is generated, the user can then share it with the community.  
-A gallery displays all the images generated thus far, where they can be downloaded by hovering over it and clicking the arrow-down button.  
+- Create an image based on the user's input by utilizing the **OpenAI** DALL-E AI API.  
+- After the image is generated, the user can then share it with the community.  
+- A gallery displays all the images generated thus far, where they can be downloaded by hovering over it and clicking the arrow-down button.  
+  
+  
+Made by Ignacio (https://www.linkedin.com/in/ignaciobardin/)
+
 
 **Technologies used for this project:**  
 
