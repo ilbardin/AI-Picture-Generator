@@ -5,10 +5,10 @@
 - A gallery displays all the images generated thus far, where they can be downloaded by hovering over it and clicking the arrow-down button.  
   
   
-Made by Ignacio (https://www.linkedin.com/in/ignaciobardin/)
+Made by Ignacio https://www.linkedin.com/in/ignaciobardin/
 
 
-**Technologies used for this project:**  
+**Tech Stack used for this project:**  
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
